@@ -1,0 +1,2 @@
+class CmsController < ApplicationController
+end
